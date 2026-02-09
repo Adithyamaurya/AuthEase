@@ -1,0 +1,8 @@
+{
+  "name": "AuthEase",
+  "description": "Digital authenticity platform for multimedia analysis and AI literacy training.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
